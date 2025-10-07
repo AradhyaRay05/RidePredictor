@@ -66,3 +66,13 @@ This project leverages **machine learning models** to predict the number of bike
 - **Streamlit**: For building and deploying the interactive web application.
 - **Pickle**: For saving and loading the trained model and preprocessing pipeline.
 
+---
+
+## Project Structure
+
+### Features
+- Predicts daily bike rental demand based on environmental and seasonal factors.
+- Provides insights into the impact of weather, time, and holidays on rental patterns.
+- Interactive Streamlit UI for real-time predictions.
+- Batch prediction support via CSV uploads.
+- Visualizations of input data and predictions for better interpretability.

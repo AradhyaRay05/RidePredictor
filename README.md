@@ -24,3 +24,24 @@ This project leverages **machine learning models** to predict the number of bike
   - Functioning Day
 - Scaled numerical features using **MinMaxScaler** to normalize the data.
 - Visualized data distributions and relationships to identify trends and outliers
+
+### 2. Model Building
+- Used **Random Forest Regressor** as the primary model for prediction.
+- Trained the model on the processed dataset using default hyperparameters.
+- Saved the trained model (`model.pkl`) and scaler (`scaler.pkl`) for deployment.
+
+### 3. Evaluation Metrics
+- Evaluated the model on test data using the following metrics:
+  - **Mean Squared Error (MSE):**
+    - Train: 1.5458
+    - Test: 12.6041
+  - **Root Mean Squared Error (RMSE):**
+    - Train: 1.2433
+    - Test: 3.5502
+  - **Mean Absolute Error (MAE):**
+    - Train: 0.7937
+    - Test: 2.1947
+  - **R² Score:**
+    - Train: 0.9900
+    - Test: 0.9202
+- Visualized residuals and feature importance to validate model performance.

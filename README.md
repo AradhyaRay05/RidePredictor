@@ -83,3 +83,14 @@ This project leverages **machine learning models** to predict the number of bike
 - Incorporate real-time weather data via APIs.
 - Add support for bulk predictions using CSV uploads.
 - Develop dashboards for advanced analytics and insights.
+---
+
+## 📌 How to Run Locally  
+
+```
+git clone https://github.com/AradhyaRay05/RidePredictor.git
+cd RidePredictor
+pip install -r requirements.txt
+streamlit run app.py
+```
+

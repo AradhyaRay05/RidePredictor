@@ -76,3 +76,10 @@ This project leverages **machine learning models** to predict the number of bike
 - Interactive Streamlit UI for real-time predictions.
 - Batch prediction support via CSV uploads.
 - Visualizations of input data and predictions for better interpretability.
+
+### Future Enhancements
+
+- Experiment with additional models (XGBoost, LightGBM).
+- Incorporate real-time weather data via APIs.
+- Add support for bulk predictions using CSV uploads.
+- Develop dashboards for advanced analytics and insights.

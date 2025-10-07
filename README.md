@@ -70,14 +70,21 @@ This project leverages **machine learning models** to predict the number of bike
 
 ## Project Structure
 
-### Features
+```
+
+
+```
+
+---
+
+## Features
 - Predicts daily bike rental demand based on environmental and seasonal factors.
 - Provides insights into the impact of weather, time, and holidays on rental patterns.
 - Interactive Streamlit UI for real-time predictions.
 - Batch prediction support via CSV uploads.
 - Visualizations of input data and predictions for better interpretability.
 
-### Future Enhancements
+## Future Enhancements
 
 - Experiment with additional models (XGBoost, LightGBM).
 - Incorporate real-time weather data via APIs.

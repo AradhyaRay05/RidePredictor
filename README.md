@@ -57,5 +57,12 @@ This project leverages **machine learning models** to predict the number of bike
 
 ---
 
-
+## Tech Stack
+- **Python**: Core programming language for data processing and model building.
+- **NumPy**: For numerical computations.
+- **Pandas**: For data manipulation and preprocessing.
+- **Matplotlib & Seaborn**: For data visualization.
+- **Scikit-learn**: For machine learning modeling and evaluation.
+- **Streamlit**: For building and deploying the interactive web application.
+- **Pickle**: For saving and loading the trained model and preprocessing pipeline.
 

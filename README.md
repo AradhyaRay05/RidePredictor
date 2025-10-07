@@ -45,3 +45,17 @@ This project leverages **machine learning models** to predict the number of bike
     - Train: 0.9900
     - Test: 0.9202
 - Visualized residuals and feature importance to validate model performance.
+
+### 4. Deployment
+- Developed a **Streamlit web app** (`app.py`) for user interaction.
+- Integrated the trained model and preprocessing pipeline.
+- Features of the deployed app:
+  - User-friendly input interface with sliders and dropdowns.
+  - Real-time predictions for daily bike rental demand.
+  - Visualizations of input data and predictions.
+  - Option to upload CSV files for batch predictions.
+
+---
+
+
+

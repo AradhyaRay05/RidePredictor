@@ -71,6 +71,10 @@ This project leverages **machine learning models** to predict the number of bike
 ## Project Structure
 
 ```
+RidePredictor/
+├── dataset/
+│   └── Bike_Data.csv                       # Raw dataset used for training
+
 
 
 ```

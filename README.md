@@ -74,7 +74,7 @@ This project leverages **machine learning models** to predict the number of bike
 RidePredictor/
 ├── dataset/
 │   └── Bike_Data.csv                       # Raw dataset used for training
-
+├── .gitignore                              # Files/directories to exclude from Git tracking
 
 
 ```

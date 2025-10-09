@@ -81,6 +81,7 @@ RidePredictor/
 ├── README.md                               # Project documentation
 ├── app.py                                  # Streamlit app
 ├── model.pkl                               # Trained machine learning model
+├── requirements.txt                        # Required dependencies
 
 
 ```

@@ -82,8 +82,7 @@ RidePredictor/
 ├── app.py                                  # Streamlit app
 ├── model.pkl                               # Trained machine learning model
 ├── requirements.txt                        # Required dependencies
-
-
+└── scaler.pkl                              # Saved scaler object for data normalization
 ```
 
 ---
